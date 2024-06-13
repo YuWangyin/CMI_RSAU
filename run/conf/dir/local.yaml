@@ -1,0 +1,5 @@
+data_dir: /content/
+processed_dir: /content/processed_data
+output_dir: /content/output
+model_dir: /content/output/train
+sub_dir: /content/
